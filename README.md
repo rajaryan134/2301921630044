@@ -1,3 +1,14 @@
+
+
+
+https://github.com/user-attachments/assets/ce54ab4a-2c0c-46e1-be2c-315d5474dd2d
+
+
+
+
+
+
+
 # Campus Notifications System - Frontend Evaluation
 
 This repository contains the solution for the Campus Notifications evaluation, focusing on efficient data sorting, API integration, and building a robust React frontend using Material UI.
